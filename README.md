@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋, I'm Giorgio
+
+My real name is Jorge but almost everybody I know irl calls me Giorgio.
+
+- 🌱 I’m currently learning:
+  - Web development
+  - Data Structures & Algorithms
+- ⚡ Fun fact: I've been playing electric guitar for more than 10 years, I specially love playing **metal** 🤘 wheter it is Death Metal, Progressive, Djent, etc.
+- 💼 LinkedIn: [linkedin.com/in/jorge-mendieta/](https://www.linkedin.com/in/jorge-mendieta/)
 
 <!--
 **GiorgioMendieta/GiorgioMendieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
