@@ -1,11 +1,12 @@
 ## :guitar: Jorge Mendieta
 
-My friends call me Giorgio. I'm an aspiring fullstack software developer.
+My friends call me Giorgio.
 
 - 💼 LinkedIn: [linkedin.com/in/jorge-mendieta/](https://www.linkedin.com/in/jorge-mendieta/)
 - 🌱 I’m currently learning:
   - Web development
   - Data Structures & Algorithms
+  - Embedded Systems design
 - ⚡ Fun fact: I've been playing electric guitar for more than 10 years, I specially love playing **metal** 🤘 wheter it is Death Metal, Progressive, Djent, etc.
 
 ### 🧰 Languages and Tools
