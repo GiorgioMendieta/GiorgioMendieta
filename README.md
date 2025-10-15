@@ -31,14 +31,19 @@ My friends call me Giorgio.
 <!--
 **GiorgioMendieta/GiorgioMendieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```
+giorgio@mendieta ----------------------------------
+Uptime: 28 years, 7 months, 24 days
+OS: macOS 15.7.1 24G231 arm64
+
+Languages.Programming: C, C++, Python, JavaScript
+Languages.Spoken: Spanish, English, French, Italian
+
+Hobbies: Electric gutiar, MMA, Technology
+
+Contact -------------------------------------------
+Email: giorgiomendieta (at) gmail.com
+Linkedin: Jorge Mendieta
+```
 -->
